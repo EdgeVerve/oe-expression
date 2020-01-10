@@ -11,9 +11,8 @@
     "fix-lint": "eslint --fix ."
   },
   "dependencies": {
-    "oe-promise": "1.5.0",
-    "restler": "3.4.0",
-    "async": "2.6.1"
+    "oe-promise": "^1.5.0",
+    "restler": "3.4.0"
   },
   "devDependencies": {
     "babel-eslint": "7.2.3",
