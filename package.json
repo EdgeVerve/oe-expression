@@ -1,6 +1,6 @@
 {
   "name": "oe-expression",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "oe-cloud modularization project aka oecloud.io",
   "engines": {
     "node": ">=6"
@@ -11,9 +11,8 @@
     "fix-lint": "eslint --fix ."
   },
   "dependencies": {
-    "oe-promise": "1.5.0",
-    "restler": "3.4.0",
-    "async": "2.6.1"
+    "oe-promise": "^1.5.0",
+    "restler": "3.4.0"
   },
   "devDependencies": {
     "babel-eslint": "7.2.3",
